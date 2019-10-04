@@ -1,0 +1,15 @@
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\bin\Release\WpfApplication31_tester2.exe.config
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Release\MainWindow.g.cs
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Release\App.g.cs
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Release\WpfApplication31_tester2_MarkupCompile.cache
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Release\WpfApplication31_tester2_MarkupCompile.lref
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\bin\Release\WpfApplication31_tester2.exe
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\bin\Release\WpfApplication31_tester2.pdb
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Release\MainWindow.baml
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Release\WpfApplication31_tester2.g.resources
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Release\WpfApplication31_tester2.Properties.Resources.resources
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Release\WpfApplication31_tester2.Resource1.resources
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Release\WpfApplication31_tester2.csproj.GenerateResource.Cache
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Release\WpfApplication31_tester2.exe
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Release\WpfApplication31_tester2.pdb

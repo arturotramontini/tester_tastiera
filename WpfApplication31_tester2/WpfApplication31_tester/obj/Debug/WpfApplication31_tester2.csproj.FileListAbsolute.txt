@@ -1,0 +1,51 @@
+C:\Users\ARTURO\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\bin\Debug\WpfApplication31_tester2.exe.config
+C:\Users\ARTURO\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2.csprojResolveAssemblyReference.cache
+C:\Users\ARTURO\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\MainWindow.g.cs
+C:\Users\ARTURO\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\App.g.cs
+C:\Users\ARTURO\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ARTURO\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2_MarkupCompile.cache
+C:\Users\ARTURO\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2_MarkupCompile.lref
+C:\Users\ARTURO\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\bin\Debug\WpfApplication31_tester2.exe
+C:\Users\ARTURO\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\bin\Debug\WpfApplication31_tester2.pdb
+C:\Users\ARTURO\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\bin\Debug\System.Data.SQLite.dll
+C:\Users\ARTURO\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\bin\Debug\System.Data.SQLite.xml
+C:\Users\ARTURO\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\MainWindow.baml
+C:\Users\ARTURO\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2.g.resources
+C:\Users\ARTURO\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2.Properties.Resources.resources
+C:\Users\ARTURO\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2.Resource1.resources
+C:\Users\ARTURO\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2.csproj.GenerateResource.Cache
+C:\Users\ARTURO\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2.exe
+C:\Users\ARTURO\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2.pdb
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\bin\Debug\WpfApplication31_tester2.exe.config
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\bin\Debug\WpfApplication31_tester2.exe
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\bin\Debug\WpfApplication31_tester2.pdb
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\MainWindow.g.cs
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\App.g.cs
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2_MarkupCompile.cache
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2_MarkupCompile.lref
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\MainWindow.baml
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2.g.resources
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2.Properties.Resources.resources
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2.Resource1.resources
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2.csproj.GenerateResource.Cache
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2.exe
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2.pdb
+C:\Users\artur\Documents\Visual Studio 2013\Projects\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2.csprojResolveAssemblyReference.cache
+C:\Users\artur\source\repos\vs2013\WpfApplication31_tester2\WpfApplication31_tester\bin\Debug\WpfApplication31_tester2.exe.config
+C:\Users\artur\source\repos\vs2013\WpfApplication31_tester2\WpfApplication31_tester\bin\Debug\WpfApplication31_tester2.exe
+C:\Users\artur\source\repos\vs2013\WpfApplication31_tester2\WpfApplication31_tester\bin\Debug\WpfApplication31_tester2.pdb
+C:\Users\artur\source\repos\vs2013\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2.csprojAssemblyReference.cache
+C:\Users\artur\source\repos\vs2013\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\MainWindow.g.cs
+C:\Users\artur\source\repos\vs2013\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\App.g.cs
+C:\Users\artur\source\repos\vs2013\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\artur\source\repos\vs2013\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2_MarkupCompile.cache
+C:\Users\artur\source\repos\vs2013\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2_MarkupCompile.lref
+C:\Users\artur\source\repos\vs2013\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\MainWindow.baml
+C:\Users\artur\source\repos\vs2013\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2.g.resources
+C:\Users\artur\source\repos\vs2013\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2.Properties.Resources.resources
+C:\Users\artur\source\repos\vs2013\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2.Resource1.resources
+C:\Users\artur\source\repos\vs2013\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2.csproj.GenerateResource.cache
+C:\Users\artur\source\repos\vs2013\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2.csproj.CopyComplete
+C:\Users\artur\source\repos\vs2013\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2.exe
+C:\Users\artur\source\repos\vs2013\WpfApplication31_tester2\WpfApplication31_tester\obj\Debug\WpfApplication31_tester2.pdb
